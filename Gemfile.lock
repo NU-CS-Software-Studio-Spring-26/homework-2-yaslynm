@@ -45,6 +45,7 @@ GEM
 PLATFORMS
   arm64-darwin-25
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   debug
@@ -72,7 +73,7 @@ CHECKSUMS
   tsort (0.2.0) sha256=9650a793f6859a43b6641671278f79cfead60ac714148aabe4e3f0060480089f
 
 RUBY VERSION
-  ruby 4.0.3
+  ruby 4.0.2
 
 BUNDLED WITH
   4.0.10
